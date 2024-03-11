@@ -23,7 +23,7 @@ The search engine indexes the pages efficiently to return the best retulsts for 
 
 
 ## Search Engine Capabillities
-  Our search method uses BM25 on both title (0.2%) and body(0.8%) of the wiki pages with a weighted ratio.
+  Our search method uses BM25 on both title (0.5%) and body(0.5%) of the wiki pages with a weighted ratio.
   additionaly we take into account each page rank to get the best query results.
 
 
