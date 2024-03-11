@@ -35,6 +35,6 @@ The search engine indexes the pages efficiently to return the best retulsts for 
 
 |  Names      |    Email        | 
 | ------------- |:-------------:|
-| Ron Sharabi   | Ronsha@post.bgu.ac.il |
+| Ron Sharabi   | Ronshar@post.bgu.ac.il|
 | Daniel Ben Zvi| Danben@post.bgu.ac.il |
 
