@@ -28,7 +28,7 @@ The search engine indexes the pages efficiently to return the best retulsts for 
 
 
 ## Links:
-- [GCP Link](LINK)
+- [GCP Link]((https://console.cloud.google.com/storage/browser/wikibucket208))
 - [External IP address](LINK)
 ###### /Search?query=Your-Query-Here
 
