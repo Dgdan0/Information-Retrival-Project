@@ -29,7 +29,7 @@ The search engine indexes the pages efficiently to return the best retulsts for 
 
 ## Links:
 - [GCP Link](https://console.cloud.google.com/storage/browser/wikibucket208)
-- [External IP address](LINK)
+- [External IP address](http://34.173.194.94:8080/)
 ###### /Search?query=Your-Query-Here
 
 
